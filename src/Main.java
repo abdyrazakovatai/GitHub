@@ -33,6 +33,12 @@ public class Main {
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
+
+        System.out.println("Hello World");
+
+        System.out.println("Change bug");
+        System.out.println("Change bug");
+        System.out.println("Change bug");
         System.out.println("Atai emes");
         System.out.println("Atai emes");
         System.out.println("Atai emes");
@@ -43,6 +49,7 @@ public class Main {
         System.out.println("Atai emes");
         System.out.println("Atai emes");
 
+        System.out.println("Testing");
         System.out.println("Testing");
         System.out.println("Testing");
         System.out.println("Testing");
